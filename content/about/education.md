@@ -28,7 +28,7 @@ experience:
     company_logo: org-x
     location: Dalian, China
     date_start: '2017-09-01'
-    date_end: '2021-06.21'
+    date_end: '2021-06-21'
     description: Courses including Database, Computer network, Java Web Application Development.
 
 design:
