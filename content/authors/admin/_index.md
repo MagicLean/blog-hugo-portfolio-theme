@@ -1,7 +1,7 @@
 ---
 title: Peng Li (黎鹏)
 role: Software Developer
-avatar_filename: ""
+avatar_filename: avatar.png
 bio: ""
 interests:
   - 体育
