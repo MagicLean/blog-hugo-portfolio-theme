@@ -15,7 +15,7 @@ image:
 ---
 ## 一、什么是消息队列
 
-![消息队列](blob:https://pengli.netlify.app/7fb006a9-02ff-4f67-97b6-9e90ac751a63)
+![消息队列](消息队列.png)
 
 定义：消息队列是一种异步的服务间通信方式。
 
@@ -33,7 +33,7 @@ image:
 
 ### 点对点模型（Queue）
 
-![点对点模型](blob:https://pengli.netlify.app/e8dc5bf6-63c4-414d-a30c-2b1903c1c76f)
+![点对点模型](点对点模型.png)
 
 在点对点模型中，消息生产者将消息发送到由某个名字标识的特定消费者，消息生产者向消息队列中发送了一个消息之后，只能被一个消费者消费一次。
 
@@ -45,7 +45,7 @@ image:
 
 ### 发布/订阅模型（Pub/Sub）
 
-![发布/订阅模型](blob:https://pengli.netlify.app/a9e4be50-eeff-43f8-a611-8b6effb571ad)
+![发布/订阅模型](发布订阅模型.png)
 
 * 在发布者/订阅者模型中，包含三个角色：主题（Topic），发布者（Publisher），订阅者（Subscriber） 。
 * 多个发布者将消息发送到Topic，系统将这些消息传递给多个订阅者。
@@ -129,7 +129,7 @@ image:
 
 目前比较常用的日志处理过程为：
 
-![日志处理流程](blob:https://pengli.netlify.app/7ae434d9-4b8c-4679-b09f-f03231556c1b)
+![日志处理流程](日志处理流程.png)
 
 * 日志采集客户端，负责日志数据采集，写入Kafka队列（如Fluent Bit）
 * Kafka消息队列，负责日志数据的接收，存储和转发
@@ -137,7 +137,7 @@ image:
 
 ## 五、常用的消息中间件比较
 
-|  -     | RabbitMQ                                     | ActiveMQ                    | RocketMQ        | Kafka                         |
+| \-     | RabbitMQ                                     | ActiveMQ                    | RocketMQ        | Kafka                          |
 | ------ | -------------------------------------------- | --------------------------- | --------------- | ------------------------------ |
 | 所属公司   | Mozilla                                      | Apache                      | Ali             | Apache                         |
 | 成熟度    | 成熟                                           | 成熟                          | 比较成熟            | 成熟                             |
