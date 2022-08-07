@@ -11,7 +11,7 @@ categories:
 image:
   filename: blob:https://pengli.netlify.app/7fb006a9-02ff-4f67-97b6-9e90ac751a63
   focal_point: SMART
-  preview_only: true
+  preview_only: false
 ---
 
 
