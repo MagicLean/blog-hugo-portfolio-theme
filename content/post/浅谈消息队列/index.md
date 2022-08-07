@@ -13,8 +13,6 @@ image:
   focal_point: SMART
   preview_only: true
 ---
-hello
-
 ## 一、什么是消息队列
 
 ![消息队列](blob:https://pengli.netlify.app/7fb006a9-02ff-4f67-97b6-9e90ac751a63)
