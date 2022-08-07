@@ -3,6 +3,11 @@ title: 浅谈消息队列
 date: 2022-08-07T10:59:47.753Z
 draft: false
 featured: false
+tags:
+  - Java
+  - 消息队列
+categories:
+  - Java
 image:
   filename: blob:https://pengli.netlify.app/7fb006a9-02ff-4f67-97b6-9e90ac751a63
   focal_point: SMART
