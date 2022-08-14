@@ -3,6 +3,11 @@ title: RocketMQ源码环境搭建
 date: 2022-08-14T15:48:07.903Z
 draft: false
 featured: false
+tags:
+  - Java
+  - RocketMQ
+categories:
+  - Java
 image:
   filename: rocketmqimg.jpeg
   focal_point: Smart
