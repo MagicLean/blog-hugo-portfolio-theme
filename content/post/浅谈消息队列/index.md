@@ -152,7 +152,7 @@ image:
 
 ### RocketMQ简介
 
-[RocketMQ](https://github.com/alibaba/RocketMQ)出自 阿里公司的开源产品，用 Java 语言实现，在设计时参考了 Kafka，并做出了自己的一些改进，消息可靠性上比 Kafka 更好。RocketMQ在阿里集团被广泛应用在订单，交易，充值，流计算，消息推送，日志流式处理，binglog分发等场景。
+[RocketMQ](https://github.com/alibaba/RocketMQ)出自 阿里公司的开源产品，用 Java 语言实现，在设计时参考了 Kafka，并做出了自己的一些改进，消息可靠性上比 Kafka 更好。RocketMQ在阿里集团被广泛应用在订单，交易，充值，流计算，消息推送，日志流式处理，binlog分发等场景。
 
 主要特性：
 
