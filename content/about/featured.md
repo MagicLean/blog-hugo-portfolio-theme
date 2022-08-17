@@ -2,7 +2,6 @@ widget: featured
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Posts
 
 content:
 # Page type to display. E.g. post, event, or publication.
@@ -23,3 +22,4 @@ design:
 #   3 = Card
 #   4 = Citation (publication only)
 view: 3
+
