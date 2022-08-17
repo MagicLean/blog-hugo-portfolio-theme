@@ -32,7 +32,7 @@ sort_by: 'Date'
 sort_ascending: false
 design:
 # Choose a listing view
-view: card
+view: showcase
 # Choose how many columns the section has. Valid values: '1' or '2'.
 columns: '1'
 ---
