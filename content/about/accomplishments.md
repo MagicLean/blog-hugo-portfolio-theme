@@ -25,12 +25,36 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2020-07-28'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Machine Learning
+    url: 'https://coursera.org/share/eec6077cfc65c7ef6c630c9316b97256'
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2020-09-05'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
-    url: 'https://coursera.org/share/eec6077cfc65c7ef6c630c9316b97256'
+    url: 'https://coursera.org/share/eefb28b7020cfed2f854f97f95c43517'
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2020-09-12'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Crash Course on Python
+    url: 'https://coursera.org/share/0c0e05ecdd19e3ce2b9afcbf0b8f17db'
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2020-09-19'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Learn to Program: The Fundamentals
+    url: 'https://coursera.org/share/019e12b9ffcff35698402dac5d742ed2'
 
 
 design:
