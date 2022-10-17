@@ -53,7 +53,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Learn to Program: The Fundamentals
+    title: 'Learn to Program: The Fundamentals'
     url: 'https://www.coursera.org/learn/learn-to-program'
 
 
